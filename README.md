@@ -6,12 +6,11 @@
 
 ###
 
-<p align="left">Mi nombre es Juan Sebastián Velásquez Rodríguez y soy estudiante de ingeniería de sistemas de la escuela colombiana de ingeniería ![image](https://github.com/user-attachments/assets/3153c56d-b02c-44e7-8697-c94e6cf1b00b)
-</p>
+<p align="left">Mi nombre es Juan Sebastián Velásquez Rodríguez y soy estudiante de ingeniería de sistemas de la escuela colombiana de ingeniería </p>
 
 ###
 
-<p align="left">Soy de Bogotá, Colombia ![image](https://github.com/user-attachments/assets/c8bd50a9-65b0-43d3-b1ea-9f36576f93f1) </p>
+<p align="left">Soy de Bogotá, Colombia </p>
 
 ###
 
