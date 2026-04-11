@@ -82,7 +82,9 @@ Marketplace platform that connects users with verified technicians, integrating 
 * Integrated payments (Nequi, Daviplata, cards, cash)
 * Rating & reputation system
 
-🔗 **View Project**
+<a href="https://github.com/IETI-2026">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
+</a>
 
 ---
 
@@ -99,7 +101,13 @@ CRM platform for tech companies focused on sales automation and intelligent coll
 * Sales pipeline & client prioritization
 * Analytics dashboards
 
-🔗 **View Project**
+<a href="https://github.com/Sebs2807/proyecto-arsw-backend">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://github.com/Sebs2807/proyecto-arsw-frontend">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
+</a>
 
 ---
 
@@ -116,7 +124,9 @@ Automation platform for reconciling financial records and reducing manual accoun
 * Audit logging
 * Scalable backend
 
-🔗 **View Project**
+<a href="https://github.com/Sebs2807/SECO">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
+</a>
 
 ---
 
@@ -133,7 +143,9 @@ Backend system for managing a school library with secure architecture.
 * CI/CD pipeline
 * Clean architecture
 
-🔗 **View Project**
+<a href="https://github.com/Sebs2807/SECO](https://github.com/Sebs2807/Proyecto-CVDS-BACK">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
+</a>
 
 ---
 
